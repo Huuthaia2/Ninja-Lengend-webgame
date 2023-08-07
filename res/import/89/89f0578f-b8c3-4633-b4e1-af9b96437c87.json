@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"PlayerConfig","json":{"10001":{"id":10001,"name":100105,"attack":55,"hp":700,"atial":0.3,"crit":0.1,"critHurt":1.5,"sidestep":0.1,"skill":[40001,40002],"des":100107},"10002":{"id":10002,"name":100106,"attack":61,"hp":500,"atial":0.5,"crit":0.15,"critHurt":1.5,"sidestep":0.05,"skill":[40003,40004],"des":100108}}}

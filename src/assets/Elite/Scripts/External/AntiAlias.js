@@ -1,0 +1,1 @@
+cc.macro.ENABLE_WEBGL_ANTIALIAS=!0,cc.macro.CLEANUP_IMAGE_CACHE=!1,cc.dynamicAtlasManager.enabled=!0;
